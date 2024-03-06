@@ -1,4 +1,4 @@
-name: EC2 Command Pull
+name: EC2 Command Pulllast
 
 on:
   workflow_run:
